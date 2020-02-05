@@ -1,3 +1,2 @@
 # RetroCourse
-Hej!
-hej//mahoo
+Hoola amigos!
