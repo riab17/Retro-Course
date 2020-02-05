@@ -1,2 +1,2 @@
-# Rims-Sida
+# RetroCourse
 Hej!
